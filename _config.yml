@@ -1,6 +1,6 @@
 title: Volodymyr Baranov
-logo: ./assets/logo.png
-description: Lawyer: IT, business, innovations  
+logo: /assets/logo.png
+description: IT Lawyer from Ukraine  
 show_downloads: 
 google_analytics:
 theme: jekyll-theme-minimal
