@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-## Текст текст
-Ну наприклад тут кнопка на пошту 
-**[Написати мені](mailto: p@p.com)**
+## Professional legal consulting 
+If You want to cooperete w/ me, just **[sand me email](mailto: baranov.online@gmail.com)**
 
-А тут посилання на дод інфу:
-**[Link to another page](./another-page.html)**
+More info **[here](./another-page.html)**
 
